@@ -7,4 +7,4 @@ st.write(
 import streamlit as st
 
 st.title("Kalkulator rawrrrr")
-st.title("_Streamlit_ is :blue[cool] :sunglasses:")
+st.title("PICKME :pinkcool] :sunglasses:")
